@@ -27,3 +27,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = 'refinedarchitect-template'
+include 'refinedarchitect-template-platform-common'
+include 'refinedarchitect-template-platform-forge'
+include 'refinedarchitect-template-platform-fabric'

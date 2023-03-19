@@ -1,0 +1,13 @@
+modLoader = "javafml"
+loaderVersion = "[44,)"
+issueTrackerURL = "https://github.com/refinedmods/refinedarchitect-template"
+license = "MIT"
+[[mods]]
+modId = "refinedarchitecttemplate"
+version = "${version}"
+displayName = "Refined Architect template"
+displayURL = "https://github.com/refinedmods/refinedarchitect-template"
+authors = "Refined Mods"
+description = '''
+A template utilizing Refined Architect.
+'''

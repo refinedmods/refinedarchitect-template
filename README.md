@@ -2,6 +2,8 @@
 
 ## About
 
+A template utilizing Refined Architect.
+
 ## Links
 
 - [GitHub](https://github.com/refinedmods/refinedarchitect-template)

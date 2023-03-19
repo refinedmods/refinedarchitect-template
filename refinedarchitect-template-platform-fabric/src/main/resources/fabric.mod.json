@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "refinedarchitecttemplate",
+  "version": "${version}",
+  "name": "Refined Architect template",
+  "description": "A template utilizing Refined Architect.",
+  "authors": [
+    "Refined Mods"
+  ],
+  "contact": {
+    "sources": "https://github.com/refinedmods/refinedarchitect-template",
+    "issues": "https://github.com/refinedmods/refinedarchitect-template/issues"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.refinedmods.refinedarchitect.template.platform.fabric.ModInitializerImpl"
+    ],
+    "client": [
+      "com.refinedmods.refinedarchitect.template.platform.fabric.ClientModInitializerImpl"
+    ]
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discordapp.com/invite/VYzsydb"
+      }
+    }
+  },
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric-api": "*",
+    "minecraft": "~1.19.3",
+    "java": ">=17"
+  }
+}

@@ -1,0 +1,3 @@
+archivesBaseName = 'refinedarchitect-template-platform-forge'
+
+forgeProject("refinedarchitecttemplate", project(":refinedarchitect-template-platform-common"), [], [":refinedarchitect-template-platform-common"])
