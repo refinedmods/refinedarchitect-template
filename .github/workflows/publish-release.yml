@@ -13,3 +13,4 @@ jobs:
       project-name: 'Refined Architect template'
       announce: false
       mutation-testing: false
+      sonarqube: false

@@ -3,5 +3,3 @@ apply from: "https://raw.githubusercontent.com/refinedmods/refinedarchitect/v${g
 subprojects {
     group = 'com.refinedmods.refinedarchitect-template'
 }
-
-enableSonarQube("refinedmods_refinedarchitect-template")
