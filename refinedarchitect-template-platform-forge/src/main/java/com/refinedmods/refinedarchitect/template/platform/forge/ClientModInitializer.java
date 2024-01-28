@@ -1,7 +1,7 @@
 package com.refinedmods.refinedarchitect.template.platform.forge;
 
-import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
+import net.neoforged.bus.api.SubscribeEvent;
+import net.neoforged.fml.event.lifecycle.FMLClientSetupEvent;
 
 public final class ClientModInitializer {
     private ClientModInitializer() {
