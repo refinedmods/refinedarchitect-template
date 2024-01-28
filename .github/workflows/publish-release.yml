@@ -7,7 +7,7 @@ on:
       - closed
 jobs:
   publish-release:
-    uses: refinedmods/refinedarchitect/.github/workflows/publish-release.yml@v0.9.1
+    uses: refinedmods/refinedarchitect/.github/workflows/publish-release.yml@v0.11.2
     secrets: inherit
     with:
       project-name: 'Refined Architect template'
