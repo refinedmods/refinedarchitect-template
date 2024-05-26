@@ -34,13 +34,13 @@ body:
             description: |
                 If your Minecraft version isn't listed here, it means that it's no longer supported. In that case, don't create an issue.
             options:
-                - Minecraft 1.19.3
+                - Minecraft 1.20.4
         validations:
             required: true
     -   type: input
         id: modloader-version
         attributes:
-            label: What Forge or Fabric version is this happening on?
+            label: What NeoForge or Fabric version is this happening on?
         validations:
             required: true
     -   type: input
