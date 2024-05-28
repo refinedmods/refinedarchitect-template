@@ -93,7 +93,7 @@ from [API Guardian](https://github.com/apiguardian-team/apiguardian).
 
 We use [Checkstyle](https://checkstyle.sourceforge.io/) in our build workflow to validate coding style.
 
-It is recommended to import the [config/checkstyle/checkstyle.xml](../config/checkstyle/checkstyle.xml) or [config/intellij-code-style.xml](config/intellij-code-style.xml) file into your
+It is recommended to import the [config/checkstyle/checkstyle.xml](../config/checkstyle/checkstyle.xml) or [config/intellij-code-style.xml](../config/intellij-code-style.xml) file into your
 IDE, so that formatting rules are respected.
 
 Moreover, the [CheckStyle-IDEA plugin](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea) can be used to check
