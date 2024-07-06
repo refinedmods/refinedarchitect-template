@@ -1,7 +1,6 @@
 package com.refinedmods.refinedarchitect.template.platform.forge;
 
 import com.refinedmods.refinedarchitect.template.platform.common.Common;
-
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;

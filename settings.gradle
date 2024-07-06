@@ -1,4 +1,4 @@
-gradle.ext.refinedArchitectVersion = "0.12.1"
+gradle.ext.refinedArchitectVersion = "0.15.3"
 
 dependencyResolutionManagement {
     repositories {
@@ -11,15 +11,6 @@ dependencyResolutionManagement {
         }
     }
     versionCatalogs {
-        create("common") {
-            from("com.refinedmods.refinedarchitect:refinedarchitect-catalog-platform-common:${gradle.ext.refinedArchitectVersion}")
-        }
-        create("fabric") {
-            from("com.refinedmods.refinedarchitect:refinedarchitect-catalog-platform-fabric:${gradle.ext.refinedArchitectVersion}")
-        }
-        create("forge") {
-            from("com.refinedmods.refinedarchitect:refinedarchitect-catalog-platform-forge:${gradle.ext.refinedArchitectVersion}")
-        }
         create("libs") {
             from("com.refinedmods.refinedarchitect:refinedarchitect-catalog:${gradle.ext.refinedArchitectVersion}")
         }
@@ -28,5 +19,5 @@ dependencyResolutionManagement {
 
 rootProject.name = 'refinedarchitect-template'
 include 'refinedarchitect-template-platform-common'
-include 'refinedarchitect-template-platform-forge'
+include 'refinedarchitect-template-platform-neoforge'
 include 'refinedarchitect-template-platform-fabric'
