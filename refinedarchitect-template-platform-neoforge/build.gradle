@@ -1,3 +1,0 @@
-archivesBaseName = 'refinedarchitect-template-platform-neoforge'
-
-neoForgeProject("refinedarchitecttemplate", project(":refinedarchitect-template-platform-common"))

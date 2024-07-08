@@ -1,3 +1,14 @@
-archivesBaseName = 'refinedarchitect-template-platform-common'
+plugins {
+    id("refinedarchitect.common")
+}
 
-commonProject()
+refinedarchitect {
+    common()
+    publishing {
+        // maven = false
+    }
+}
+
+base {
+    archivesName.set("refinedarchitect-template-platform-common")
+}

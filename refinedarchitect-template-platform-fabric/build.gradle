@@ -1,3 +1,0 @@
-archivesBaseName = 'refinedarchitect-template-platform-fabric'
-
-fabricProject("refinedarchitecttemplate", project(":refinedarchitect-template-platform-common"))
