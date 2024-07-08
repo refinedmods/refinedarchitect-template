@@ -14,5 +14,5 @@ refinedarchitect {
 }
 
 base {
-    archivesName.set("refinedarchitect-template-neoforge")
+    archivesName.set("refinedarchitect-template-platform-neoforge")
 }
