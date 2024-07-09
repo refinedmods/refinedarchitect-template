@@ -1,0 +1,14 @@
+plugins {
+    id("refinedarchitect.common")
+}
+
+refinedarchitect {
+    common()
+    publishing {
+        // maven = false
+    }
+}
+
+base {
+    archivesName.set("refinedarchitect-template-common")
+}

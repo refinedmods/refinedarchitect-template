@@ -45,6 +45,6 @@ pluginManagement {
 }
 
 rootProject.name = "refinedarchitect-template"
-include("refinedarchitect-template-platform-common")
-include("refinedarchitect-template-platform-neoforge")
-include("refinedarchitect-template-platform-fabric")
+include("refinedarchitect-template-common")
+include("refinedarchitect-template-neoforge")
+include("refinedarchitect-template-fabric")
