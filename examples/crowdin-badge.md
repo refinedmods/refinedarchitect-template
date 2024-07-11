@@ -1,0 +1,1 @@
+[![Crowdin](https://badges.crowdin.net/refined-storage-2/localized.svg)](https://crowdin.com/project/refined-storage-2)
