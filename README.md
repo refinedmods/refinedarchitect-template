@@ -28,6 +28,7 @@ A template utilizing [Refined Architect](https://github.com/refinedmods/refineda
   - Require conversation resolution before merging.
   - Do not allow bypassing the above settings.
 - Set the tags on the GitHub repository.
+- Set the custom repository properties on the GitHub repository.
 - Set some GitHub repository settings:
   - Only allow issues.
   - Preserve this repository.
