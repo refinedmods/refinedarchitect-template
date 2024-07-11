@@ -43,6 +43,7 @@ A template utilizing [Refined Architect](https://github.com/refinedmods/refineda
 ### Optional: Set-up Crowdin
 
 - Create a project on Crowdin.
+  - Enable the localization status badge. 
 - Copy the `examples/crowdin.yml` file to the root directory as `crowdin.yml`.
   - Configure the project identifier and source translation file location. 
 - Add the Crowdin badge to `README.md` from `examples/crowdin-badge.md`. 
