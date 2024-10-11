@@ -93,7 +93,6 @@ A template utilizing [Refined Architect](https://github.com/refinedmods/refineda
     - [Refined Mods on GitHub](https://github.com/refinedmods)
 - [Discord](https://discordapp.com/invite/VYzsydb)
 - [Twitter](https://twitter.com/refinedmods)
-- [Mastodon](https://anvil.social/@refinedmods)
 
 ## Building
 
