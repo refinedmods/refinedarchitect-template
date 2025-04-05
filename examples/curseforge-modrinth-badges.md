@@ -1,1 +1,1 @@
-[![Downloads on CurseForge](http://cf.way2muchnoise.eu/full_243076_downloads.svg)](http://minecraft.curseforge.com/projects/refined-storage) [![Downloads on Modrinth](https://img.shields.io/modrinth/dt/refined-storage?logo=modrinth)](https://modrinth.com/mod/refined-storage)
+[![Downloads on CurseForge](https://img.shields.io/curseforge/dt/243076?logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/refined-storage) [![Downloads on Modrinth](https://img.shields.io/modrinth/dt/refined-storage?logo=modrinth)](https://modrinth.com/mod/refined-storage)

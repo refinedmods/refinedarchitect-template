@@ -7,8 +7,8 @@ refinedarchitect {
     neoForge()
     publishing {
         // maven = true
-        // curseForge = "123"
-        // modrinth = "slug"
+        // curseForge = "project id"
+        // modrinth = "project id"
     }
 }
 

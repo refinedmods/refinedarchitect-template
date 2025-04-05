@@ -7,8 +7,10 @@ refinedarchitect {
     fabric()
     publishing {
         // maven = true
-        // curseForge = "123"
-        // modrinth = "slug"
+        // curseForge = "project id"
+        // curseForgeRequiredDependencies = listOf("fabric-api")
+        // modrinth = "project id"
+        // modrinthRequiredDependencies = listOf("fabric-api")
     }
 }
 

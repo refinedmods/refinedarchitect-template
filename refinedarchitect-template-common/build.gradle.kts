@@ -5,7 +5,7 @@ plugins {
 refinedarchitect {
     common()
     publishing {
-        // maven = false
+        // maven = true
     }
 }
 
