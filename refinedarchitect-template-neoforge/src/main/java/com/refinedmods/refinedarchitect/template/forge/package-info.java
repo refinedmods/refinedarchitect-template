@@ -1,4 +1,4 @@
-@ParametersAreNonnullByDefault
+@NullMarked
 package com.refinedmods.refinedarchitect.template.forge;
 
-import javax.annotation.ParametersAreNonnullByDefault;
+import org.jspecify.annotations.NullMarked;

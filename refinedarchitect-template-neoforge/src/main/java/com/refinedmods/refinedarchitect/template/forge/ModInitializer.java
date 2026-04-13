@@ -12,7 +12,7 @@ import net.neoforged.neoforge.registries.RegisterEvent;
 @Mod(Common.MOD_ID)
 public class ModInitializer {
     public ModInitializer(final IEventBus eventBus) {
-        if (FMLEnvironment.dist == Dist.CLIENT) {
+        if (FMLEnvironment.getDist() == Dist.CLIENT) {
             eventBus.addListener(ClientModInitializer::onClientSetup);
         }
         eventBus.addListener(this::onRegister);
